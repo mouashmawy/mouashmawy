@@ -3,12 +3,9 @@
 <h3>Learning the fundemntals of programming and intersted in AI and ML.
 </h3>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently Communication and Information Engineering in Zewail City
-</div>
 
-<br />
 
 ### Languages and Tools:
 
@@ -32,5 +29,4 @@ Here are some ideas to get you started:
 
 
 ### GitHub Status:
-<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouashmawy&layout=compact)](https://github.com/mouashmawy/github-readme-stats)
