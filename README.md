@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 
 
-#Get in touch: 
+##Get in touch: 
 
  <a href="https://www.linkedin.com/in/mouashmawy" width="26px"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href="https://www.facebook.com/mmashraf9"><img src="https://seeklogo.com/images/F/facebook-logo-CE3032F01E-seeklogo.com.png"></a>
+
 
 
 <b>Github stats:</b> <br><br>
