@@ -4,7 +4,7 @@
 </h3>
 
 
-- 🔭 I’m currently Communication and Information Engineering in Zewail City
+- 🔭 I’m Studying Communication and Information Engineering in Zewail City
 
 
 ### Languages and Tools:
