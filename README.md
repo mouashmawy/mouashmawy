@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://i.ibb.co/P4M4chF/github-icon-38976.png" />
 
-#
+<br />
 
 
-Get in touch: 
+
+#Get in touch: 
 
  <a href="https://www.linkedin.com/in/mouashmawy" width="26px"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href="https://www.facebook.com/mmashraf9"><img src="https://seeklogo.com/images/F/facebook-logo-CE3032F01E-seeklogo.com.png"></a>
