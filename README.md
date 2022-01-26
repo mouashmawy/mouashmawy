@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <h1>  </h1>
 
-###Get in touch: 
+### Get in touch: 
 
  <a href="https://www.linkedin.com/in/mouashmawy" width="26px"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
