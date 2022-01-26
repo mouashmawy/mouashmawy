@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently Communication and Information Engineering in Zewail City
 </div>
 
-
 <br />
 
 ### Languages and Tools:
@@ -19,14 +18,12 @@ Here are some ideas to get you started:
 <img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://i.ibb.co/P4M4chF/github-icon-38976.png" />
+
 </div>
 
 
 <br />
 
-
-<h1> 
-</h1>
 
 ### Get in touch: 
 
@@ -34,5 +31,6 @@ Here are some ideas to get you started:
 
 
 
-<b>Github stats:</b> <br><br>
+### GitHub Status:
+<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouashmawy&layout=compact)](https://github.com/mouashmawy/github-readme-stats)
