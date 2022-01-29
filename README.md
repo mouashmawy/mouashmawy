@@ -33,7 +33,7 @@
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 <img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://i.ibb.co/P4M4chF/github-icon-38976.png" />
+<img align="left" alt="GitHub" width="26px" width="26px" src="https://i.ibb.co/P4M4chF/github-icon-38976.png" />
 
 
 
@@ -42,7 +42,9 @@
 
 ### Get in touch: 
 
- <a href="https://www.linkedin.com/in/mouashmawy" width="26px"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/mouashmawy"> <img width="150px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<br/>
+ <a href="https://www.facebook.com/mmashraf9" > <img width="150px" src="https://i.ibb.co/xqQggRh/f.png" ></a>
 
 
 
