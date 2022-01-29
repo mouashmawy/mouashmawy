@@ -1,20 +1,22 @@
 ### Hello World 👋
 <h1> I'm Moustafa Ashmawy </h1>
-- Learning the fundemntals of programming and intersted in AI and ML.
+- Learning the fundemntals of programming and intersted in Automation & Webscrapping.
 <br/>
 - I’m Studying Communication and Information Engineering in Zewail City
 
 <br/>
 
-<h2>Projects I have done independently:</h2>
-- COVIDx: for managing some data about COVID panademic
+<h2>Projects I have done independently (not posted here yet):</h2>
+- Telegram bot to scrapp 2000 JOBS data from TIMESJOB, organize it in EXCEL file and send it for user within seconds.
 <br/>
-- Circuit simulator (for CIE 202 course)
+- others will be written...
  
  
 <br/>
 
-<h2>Projects I have done for university courses (chronological order):</h2>
+<h2>Projects I have done for university courses :</h2>
+(arranged in chronological order & can be unfinished for some reasons)
+<br/>
 - COVIDx: for managing some data about COVID panademic (CSCI 101 course)
  <br/>
 - Circuit simulator (CIE 202 course)
