@@ -1,11 +1,28 @@
 ### Hello World 👋
 <h1> I'm Moustafa Ashmawy </h1>
-<h3>Learning the fundemntals of programming and intersted in AI and ML.
-</h3>
+- Learning the fundemntals of programming and intersted in AI and ML.
+<br/>
+- I’m Studying Communication and Information Engineering in Zewail City
 
+<br/>
 
-- 🔭 I’m Studying Communication and Information Engineering in Zewail City
+<h2>Projects I have done independently:</h2>
+- COVIDx: for managing some data about COVID panademic
+<br/>
+- Circuit simulator (for CIE 202 course)
+ 
+ 
+<br/>
 
+<h2>Projects I have done for university courses (chronological order):</h2>
+- COVIDx: for managing some data about COVID panademic (CSCI 101 course)
+ <br/>
+- Circuit simulator (CIE 202 course)
+ <br/>
+- Area Calculator by Shoelace Algorithm (Vector Calculus course)
+
+</div>
+ <br/>
 
 ### Languages and Tools:
 
@@ -16,11 +33,10 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://i.ibb.co/P4M4chF/github-icon-38976.png" />
 
-</div>
 
 
-<br />
 
+<br/>
 
 ### Get in touch: 
 
