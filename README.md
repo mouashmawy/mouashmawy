@@ -53,3 +53,7 @@
 
 ### Top Languages on GitHub:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouashmawy&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=mouashmawy&layout=compact)
+
+### Profile Visitors:
+
+![Visitor Count](https://profile-counter.glitch.me/mouashmawy/count.svg)
