@@ -52,7 +52,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=mouashmawy)](https://github-readme-stats.vercel.app/api?username=mouashmawy)
 
 ### Top Languages on GitHub:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouashmawy&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=mouashmawy&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouashmawy&hide=c&exclude_repo=cpp-project)](https://github-readme-stats.vercel.app/api/top-langs/?username=mouashmawy&hide=c&exclude_repo=cpp-project)
 
 ### Profile Visitors:
 
